@@ -1,6 +1,6 @@
 # Objective
 
-This repository aims to document my studies in software engineering based on (coding interview university)[coding-interview-university]
+This repository aims to document my studies in software engineering based on [coding interview university](https://github.com/jwasham/coding-interview-university)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
