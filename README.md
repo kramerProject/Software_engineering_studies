@@ -1,8 +1,12 @@
 # Objective
 
-This repository aims to document my studies in software engineering based on [coding interview university](https://github.com/jwasham/coding-interview-university)
+This repository aims to document my studies in software engineering based on [coding interview university](https://github.com/jwasham/coding-interview-university) and other sources. 
 
-## Algorithmic complexity / Big-O / Asymptotic analysis
+# Study Plan
+
+- [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
+
+## 1. Algorithmic complexity / Big-O / Asymptotic analysis
 
 - Nothing to implement here, you're just watching videos and taking notes! Yay!
 - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review.
