@@ -21,6 +21,7 @@ def multiply_arrays(array1, array2):
 
     return result
 
+# time and space complexity O(n3)
 def multiply_arrays_n3(array1, array2, array3):
     result = []
     for number1 in array1:
