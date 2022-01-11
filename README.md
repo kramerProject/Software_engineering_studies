@@ -12,7 +12,7 @@ This repository aims to document my studies in software engineering based on [co
     - [Queue](#queue)
     - [Hash table](#hash-table)
 
-## 1. Algorithmic complexity / Big-O / Asymptotic analysis
+## Algorithmic complexity / Big-O / Asymptotic analysis
 
 - Nothing to implement here, you're just watching videos and taking notes! Yay!
 - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review.
@@ -32,7 +32,7 @@ This repository aims to document my studies in software engineering based on [co
 - [X] [Cheat sheet](http://bigocheatsheet.com/)
 
 
-## 2. Data Structures
+## Data Structures
 
 - ### Arrays
     - [ ] About Arrays:
